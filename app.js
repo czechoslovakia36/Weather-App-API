@@ -17,7 +17,7 @@ window.addEventListener("load", () => {
       long = position.coords.longitude;
       lat = position.coords.latitude;
 
-      const api = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=be4ca6698a3b75b9b5942ac5922834e6`;
+      const api = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=be4ca6698a3b75b9b5942ac5922834e6&units=imperial`;
       console.log(api);
       fetch(api)
         // In place of data/response. argument we can use anything

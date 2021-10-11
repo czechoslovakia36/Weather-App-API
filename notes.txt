@@ -11,3 +11,7 @@ https://openweathermap.org/weather-conditions
 
 -- DOM
 https://flaviocopes.com/how-to-add-image-dom/
+
+
+---> Open weather api
+https://openweathermap.org/api
