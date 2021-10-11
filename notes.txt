@@ -1,0 +1,13 @@
+ypqfsoamwedsowwanm@adfskj.com
+redgear@#$23
+
+https://openweathermap.org/api/geocoding-api#direct
+
+https://openweathermap.org/current#geo
+
+
+---> FOR ICONS
+https://openweathermap.org/weather-conditions
+
+-- DOM
+https://flaviocopes.com/how-to-add-image-dom/
