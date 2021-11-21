@@ -1,5 +1,4 @@
-ypqfsoamwedsowwanm@adfskj.com
-redgear@#$23
+
 
 https://openweathermap.org/api/geocoding-api#direct
 
